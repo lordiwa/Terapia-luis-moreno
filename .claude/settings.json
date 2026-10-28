@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "hivemind-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "HexingBot/hivemind"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "hivemind@hivemind-marketplace": true
+  }
+}
